@@ -1,0 +1,184 @@
+/* Extra large devices */
+@media (min-width: 1200px) {}
+
+/* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+/* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) {}
+
+/* Small devices */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler i {
+        color: #fff;
+        font-size: 30px;
+    }
+
+    .navbar-nav {
+        background: rgba(78, 52, 39, 0.555);
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+        text-align: center;
+        z-index: 9999;
+    }
+    .content h1 {
+        font-size: 41px; 
+    }
+    .content p {
+        padding: 0px 16px;
+    }
+    .purches_btn{
+        text-align: center !important;
+        margin-top: 30px;
+    }
+    .counter_icon {
+        padding-top: 54px;
+    }
+
+    .sohel {
+        margin-left: 154px;
+        margin-bottom: -105px;
+    }
+    .fff {
+        margin-top: -208px;
+        margin-left: 141px;
+    }
+    .fffff {
+        margin-top: -97px;
+        margin-left: 141px;
+    }
+    .ssss {
+        margin-top: 11px;
+    }
+    .copy_mob_text{
+        margin-top: 20px;
+    }
+
+/* Extra small devices */
+@media (max-width: 575.98px) {
+    .navbar-toggler i {
+        color: #fff;
+        font-size: 30px;
+    }
+
+    .navbar-nav {
+        background: rgba(78, 52, 39, 0.555);
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+        text-align: center;
+        z-index: 9999;
+    }
+
+    .banner_overlay {
+        padding: 120px 0;
+    }
+
+    .content h3 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .content h1 {
+        font-size: 32px;
+        line-height: 30px;
+    }
+
+    .content p {
+        font-size: 11px;
+        line-height: 21px;
+        padding: 0px 0px;
+    }
+
+    .idea_text h3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .purches_text {
+        text-align: center;
+    }
+
+    .purches_text h3 {
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    .purches_text p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .purches_btn {
+        text-align: center !important;
+        margin-top: 25px;
+    }
+
+    .portfullio_btn button {
+        margin-bottom: 8px;
+    }
+
+    .veno_text h3 {
+        font-size: 26px;
+        line-height: 26px;
+    }
+
+    .venobox_overly {
+        padding-top: 58px;
+        padding-bottom: 60px;
+    }
+    .hand_text h3 {
+        font-size: 26px;  
+        line-height: 24px;
+    }
+    .hand_text p {
+        font-size: 13px;
+        line-height: 25px;
+        padding-top: 9px;
+    }
+    .hand_icon_text {
+        padding-left: 1px;
+        padding-top: 25px;
+    }
+    .counter_icon {
+        padding-top: 62px;
+    }
+
+    .footer_text p {
+        padding-top: 20px;
+    }
+    .footer_text h3 {
+        line-height: 19px;
+    }
+    .footer_text h5 {
+        line-height: 21px;
+    }
+    .sohel {
+        margin-left: 154px;
+        margin-bottom: -105px;
+    }
+    .fff {
+        margin-top: -208px;
+        margin-left: 141px;
+    }
+    .fffff {
+        margin-top: -97px;
+        margin-left: 141px;
+    }
+    .ssss {
+        margin-top: 11px;
+    }
+
+    .copy_text p {
+        padding-bottom: 20px;
+        line-height: 24px;
+    }
+    .copy_mob_text p {
+        line-height: 24px;
+    }
+}
